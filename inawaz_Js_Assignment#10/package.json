@@ -1,0 +1,15 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "This project is a simple HTML webpage that displays a course schedule and a list of favorite movies. It serves as an introductory assignment to demonstrate basic HTML structure and formatting.",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {}
+}

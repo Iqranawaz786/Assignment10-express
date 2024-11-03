@@ -1,0 +1,7 @@
+body {
+background-color: rgb(28, 187, 187);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+ol li:hover,ul li:hover {
+    color: red;
+}
